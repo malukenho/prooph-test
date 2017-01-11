@@ -1,5 +1,7 @@
 {
+  "name": "malukenho/prooph-test",
   "require": {
+    "php":             "~7.0",
     "phpunit/phpunit": "^5.7"
   }
 }
